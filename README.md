@@ -14,8 +14,8 @@ A lightweight and fast Python-based port scanner for ethical hackers and cyberse
 - Pure Python (no external dependencies)
 
 ---
-<img src="https://github.com/Kamesh-the-hacker/kport-scan/blob/main/Screenshot%202025-05-29%20004155.png" alt="kport-scan in action" width="600" />
-<img src="https://github.com/Kamesh-the-hacker/kport-scan/blob/main/Screenshot%202025-05-29%20004343.png" alt="kport-scan in action" width="600" />
+<img src="https://github.com/Kamesh-the-hacker/kport-scan/blob/main/1.png" alt="kport-scan in action" width="600" />
+<img src="https://github.com/Kamesh-the-hacker/kport-scan/blob/main/1.png" alt="kport-scan in action" width="600" />
 ## 📥 Installation Guide
 
 Follow these steps to install and run kportscan:
