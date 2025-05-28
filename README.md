@@ -25,7 +25,8 @@ Follow these steps to install and run kportscan:
 ```bash
 git clone https://github.com/kamesh-the-hacker/kportscan.git
 cd kportscan
-
+```
+```bash
 2. Make Sure You Have Python 3
 
 Check if Python 3 is installed:
